@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
         var client = _client;
     // App activate callback
         client.events.on('app.activated', function () {
-      // Disable Ticket Priority
+      // Hide on-screen elements
             client.interface.trigger('hide', { id: 'to'} );
     });
   });

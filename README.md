@@ -1,29 +1,29 @@
-# Freshworks Sample Apps
+# Ticket Requester Obfuscator
 
-<img align="right" height=100 vspace=20 src='.github/assets/laptop.svg'>
+### Description:
+Every time the ticket details page is loaded, this app disables the "to" field in the email composer.
 
-Sample Apps in this repository demonstrate features of our developer platform. Any app that you build will be run as part of the in-product experience. Join us in crafting those experiences.
+Features demonstrated | Notes
+-------------------- | ------
+App location | ticket_background
+Interface API | To disable ticket properties
 
-The App development for any Freshworks product follows a common pattern. <mark> Which implies once an app built for one product will be similar to another with very few changes required</mark>.
+### Prerequisites:
+1. Make sure you have a trial Freshdesk account created
+2. Ensure that you have the Freshworks Developer Kit (FDK) installed properly.
 
-<dl>
-  <dt>Prerequisites ℹ️</dt>
-  <dd>You need to have Freshworks CLI installed. See <a href="https://community.developers.freshworks.com/t/what-are-the-prerequisites-to-install-the-freshworks-cli/234/2"> instructions</a> to install it </dd>
-  <dt>References 📒</dt>
-  <dd>Freshworks developer platform currently powers 6 major products. See the <a href="https://developers.freshworks.com/documentation">documentation</a> to learn more SDK and APIs.<dd>
-  <dt>Tutorials 👩‍🏫</dt>
-  <dd>Learn building apps! See <a href="https://developers.freshworks.com/tutorials/"> tutorials</a> on various platform capabilities you can leverage.</dd>
-  <dt>Community 🏡 </dt>
-  <dd><a href="https://community.developers.freshworks.com/">Join our forum</a> where developers across ask and get help from fellow developers.</dd>
-  <dt>Blog 💼</dt>
-  <dd>Stay updated by checking out our <a href="https://medium.com/freshworks-developer-blog">blog</a></dd>
-</dl>
+_[From point 3, add some of the important prerequisites which are specific to this app]_
 
-👮‍♂️ [CODE OF CONDUCT](./.github/CODE_OF_CONDUCT.MD)
+### Procedure to run the app:
+1. Fill the `iparam_test_data.json` before running the app locally.
+2. Run the app locally using the [`fdk run`](https://developers.freshchat.com/v2/docs/freshworks-cli/#run) command
+3. Append `?dev=true` to the Freshworks product URL to see the changes
 
-🍟 [CONTRIBUTION GUIDE](./.github/CONTRIBUTING.MD)
+_[ Special instructions for realizing the value out of this app]_
 
-🕵️‍♂️ [LICENSE](./.github/LICENSE)
+### Screenshots:
 
+[Pending]
 
-<img align="right" vspace=20 width=150 src=".github/assets/freshworks_developers_logo.png">
+###### Protip
+- [Pending]

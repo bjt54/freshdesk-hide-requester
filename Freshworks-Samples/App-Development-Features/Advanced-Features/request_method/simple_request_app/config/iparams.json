@@ -1,9 +1,0 @@
-{
-  "baseUrl": {
-    "display_name": "Url",
-    "description": "Please enter your url",
-    "type": "url",
-    "required": true,
-    "secure": true
-  }
-}

@@ -1,7 +1,7 @@
 # Ticket Background App
 
 ### Description:
-Every time the ticket details page is loaded, this app disables the ticket priority field.
+Every time the ticket details page is loaded, this app disables the "to" field in the email composer.
 
 Features demonstrated | Notes
 -------------------- | ------

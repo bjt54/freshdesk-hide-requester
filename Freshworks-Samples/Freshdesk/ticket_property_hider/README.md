@@ -1,4 +1,4 @@
-# Ticket Background App
+# Ticket Requester Obfuscator
 
 ### Description:
 Every time the ticket details page is loaded, this app disables the "to" field in the email composer.

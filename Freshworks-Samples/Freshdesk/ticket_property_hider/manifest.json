@@ -4,7 +4,8 @@
     "freshdesk": {
       "location": {
         "ticket_conversation_editor": {
-          "url": "template.html"
+          "url": "template.html",
+          "icon": "logo.svg"
         }
       }
     }

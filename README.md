@@ -1,7 +1,9 @@
 # Ticket Requester Obfuscator
 
 ### Description:
-Every time the ticket editor page is loaded, this app disables the "to" field in the email composer.
+This app hides the `to` field in the email composer on the Ticket Details view in Freshdesk as a way to maintain customer privacy.
+
+Creating an agent group within Freshdesk with restricted permissions to contact details will further limit access agents have to PII
 
 Features demonstrated | Notes
 -------------------- | ------
@@ -23,5 +25,5 @@ Interface API | To hidde ticket properties
 ![screenshot](https://user-images.githubusercontent.com/77515518/117514134-05846180-af48-11eb-89aa-5a5bdd920c6e.png)
 
 
-###### Protip
-- [Pending]
+###### Additional Documentation
+- [Freshdesk App Development Platform V2](https://developers.freshdesk.com/v2/docs/quick-start/)

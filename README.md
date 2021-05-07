@@ -5,7 +5,7 @@ Every time the ticket editor page is loaded, this app disables the "to" field in
 
 Features demonstrated | Notes
 -------------------- | ------
-App location | ticket_conversation_editor
+App location | ticket_background
 Interface API | To hidde ticket properties
 
 ### Prerequisites:
@@ -20,8 +20,8 @@ Interface API | To hidde ticket properties
 
 
 ### Screenshots:
+![screenshot](https://user-images.githubusercontent.com/77515518/117514134-05846180-af48-11eb-89aa-5a5bdd920c6e.png)
 
-[Pending]
 
 ###### Protip
 - [Pending]
